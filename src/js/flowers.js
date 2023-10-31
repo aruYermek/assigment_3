@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContent", function () {
     const cartAmount = document.querySelector(".cartAmount");
     const plusButtons = document.querySelectorAll(".bi-plus-lg");
     const minusButtons = document.querySelectorAll(".bi-dash-lg");
